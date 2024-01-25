@@ -1,0 +1,15 @@
+[x] use of templates
+[x] use od database
+[x] use of express plugin libraries
+[x] user registration
+[x] -cookies and session
+[x] -hashing of passwords
+[x] - JSON Web Token
+[x] Error handling
+[x] User role guards
+Full CRUD (application specific)
+-caralog
+-details
+-create
+-edit
+-delete
